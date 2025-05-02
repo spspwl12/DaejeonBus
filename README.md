@@ -29,7 +29,11 @@
   ![image](https://github.com/user-attachments/assets/7af27765-d8c5-4e0c-bac5-6a8f7a60473c)
 9. F7를 눌러 컴파일 합니다.
 10. 컴파일이 완료되면, 프로젝트 폴더안의 Build 폴더에 있는 BusClient.exe 또는 DaejeonBus.exe 를 실행합니다.
-    
+
+## map 의 바이러스토탈 결과
+https://www.virustotal.com/gui/file/dac202b7bf333183f08d34ce18acac73f7ad9c56a1ec49e28d8b460f44366e92
+![image](https://github.com/user-attachments/assets/8f95149f-7554-456e-99ca-b43d7d4672ee)
+
 ## 작동 화면
 ### BusClient
 #### 버스 노선 확인
