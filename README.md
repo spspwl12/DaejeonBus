@@ -32,9 +32,23 @@
     
 ## 작동 화면
 ### BusClient
+#### 버스 노선 확인
 ![Animation](https://github.com/user-attachments/assets/132fbf84-46ab-4fa6-8e17-c5dff2258ac1)
+#### 즐겨찾기 추가
 ![Animation](https://github.com/user-attachments/assets/40a02936-963a-4d26-bf20-8fa6cfd08397)
+#### 정류장 검색
 ![Animation2](https://github.com/user-attachments/assets/4d20de5d-74e3-4ae4-8d00-85ac0882cd87)
 
-### DaejeonBus 관리
-
+### DaejeonBus 관리 프로그램
+#### 버스 추가
+![11](https://github.com/user-attachments/assets/39c9539c-c1af-48a5-ad66-bb509224c2fa)
+#### 정류장 추가
+![22](https://github.com/user-attachments/assets/b3c63ec3-7be4-4942-b419-eae6066ba369)
+#### 정류장 확인
+![33](https://github.com/user-attachments/assets/e3670e5a-e9f9-453d-85c6-a0713514591a)
+#### 반대방향 버스 추가
+![44](https://github.com/user-attachments/assets/a6c5b02a-2625-4c94-8916-58f730895bdd)
+#### BusClient에서 버스 검색
+![54](https://github.com/user-attachments/assets/479e353d-9a06-4817-a038-156533d1e7ae)
+#### BusClient에서 정류장 검색
+![55](https://github.com/user-attachments/assets/93038469-d462-4d50-83c7-774253aa3d0e)
